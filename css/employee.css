@@ -1,0 +1,26 @@
+body{
+	background-color: #dcdcdc;
+}
+
+p,h1{
+   
+}
+label{
+        font-family: "times new roman",serif;
+        font-size: 20px;
+}
+.d1{
+        font-family: "times new roman",serif;
+                font-size: 34px;
+                color: #5a615a;
+                bottom: 10px;
+
+
+
+}
+.bdr{
+	border-right: 1px solid #C0C0C0;
+	position: relative;
+	top: -130px;
+	; 
+}
